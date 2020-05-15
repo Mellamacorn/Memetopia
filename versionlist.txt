@@ -1,0 +1,11 @@
+Version 1.1
+
+---------------------
+
+- Changed the Cloaker charging sound effect.
+
+Version 1
+
+---------------------
+
+- Changed a bunch of different text to memes.
