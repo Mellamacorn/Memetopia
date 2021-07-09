@@ -37,8 +37,8 @@ Hooks:Add("LocalizationManagerPostInit", "Memetopia_Loc", function(loc)
 		["menu_difficulty_apocalypse"] = "Getgud",
 		
 		--Deathsentence
-		["menu_risk_sm_wish"] = "9/11 Mode",
-		["menu_difficulty_sm_wish"] = "9/11 Mode",
+		["menu_risk_sm_wish"] = "Adam Gae",
+		["menu_difficulty_sm_wish"] = "Adam Gae",
 		
 		["dialog_are_you_sure_you_want_to_quit"] = "You can run, but you will always be back",
         ["menu_crimenet"] = "Meme.net",
